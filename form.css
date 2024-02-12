@@ -1,0 +1,56 @@
+form{
+    background-color: crimson;
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 18px 10px blue;
+}
+legend{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+input[type=text],input[type=text],input[type=email],input[type=password]{
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+button{
+    height: 40px;
+    width: 300px;
+    border-radius: 5px;
+    background-color: #05d4f8;
+    margin-left: 150px;orm{
+    background-color: crimson;
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 18px 10px blue;
+}
+legend{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+input[type=text],input[type=text],input[type=email],input[type=password]{
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+button{
+    height: 40px;
+    width: 300px;
+    border-radius: 5px;
+    background-color: #05d4f8;
+    margin-left: 150px;
+}
+button:hover{
+    background-color: forestgreen;
+    width: 300px;
+}
